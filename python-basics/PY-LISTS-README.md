@@ -8,7 +8,8 @@ This project documents what I learned about Python lists and how I can begin app
 
 ### 1. Creating a List
 
-```python
+Example: 
+
 tools = ["Nmap", "Wireshark", "Burp Suite"]
 
 print(tools)
@@ -81,16 +82,3 @@ Add new values
 Remove values
 Check whether a value exists
 Access specific values using indexes
-
-I also learned that these basic concepts can be applied to cybersecurity automation.
-
-Basic Idea
-Store data → Check data → Make a decision
-Next Step
-
-My next goal is to learn Python loops and use them to check multiple IP addresses automatically.
-
-Learning journey: Python → Cybersecurity → Automation 🔐🐍
-
-
-I can also structure the GitHub repository itself (`README.md`, `lists.py`, and folders) so it looks clean an
