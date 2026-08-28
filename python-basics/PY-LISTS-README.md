@@ -17,14 +17,19 @@ print(tools)
 A list allows me to store multiple values in one variable.
 
 2. Checking if an Item Exists
+   
 print("Wireshark" in tools)
 
 Output:
 
 True
+
 3. Checking if an Item Does Not Exist
+   
 print("Python" not in tools)
+
 4. Adding Items with append()
+   
 tools.append("Python")
 
 print(tools)
@@ -32,7 +37,9 @@ print(tools)
 Output:
 
 ['Nmap', 'Wireshark', 'Burp Suite', 'Python']
+
 5. Removing Items with remove()
+   
 tools.remove("Wireshark")
 
 print(tools)
